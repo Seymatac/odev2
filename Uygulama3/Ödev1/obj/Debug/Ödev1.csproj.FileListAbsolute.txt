@@ -1,0 +1,6 @@
+C:\Users\seyma\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.exe.config
+C:\Users\seyma\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.exe
+C:\Users\seyma\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.pdb
+C:\Users\seyma\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.exe
+C:\Users\seyma\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.pdb
